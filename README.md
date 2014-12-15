@@ -2,6 +2,7 @@
 
 Below is HTML and calling the widget.
 
+<code>
 <div id="testBox">
     <img src="img/1.jpg"/>
     <img src="img/2.jpg"/>
@@ -16,3 +17,4 @@ Below is HTML and calling the widget.
       time: 2000,  // the time every scrolling
       hasNumber: false  // whether showing number, the default value is false
  });
+</code>
